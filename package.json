@@ -2,7 +2,8 @@
   "name": "typescript-visitor-keys",
   "version": "0.1.0",
   "description": "typescript visitor keys",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "prepack": "npm run build"
