@@ -1,0 +1,25 @@
+{
+  "name": "typescript-visitor-keys",
+  "version": "0.1.0",
+  "description": "typescript visitor keys",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "prepack": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinminlabs/typescript-visitor-keys.git"
+  },
+  "keywords": [
+    "typescript",
+    "visitor",
+    "keys"
+  ],
+  "author": "Richard Huang <flyerhzm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinminlabs/typescript-visitor-keys/issues"
+  },
+  "homepage": "https://github.com/xinminlabs/typescript-visitor-keys#readme"
+}
