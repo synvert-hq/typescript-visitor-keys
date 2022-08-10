@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/xinminlabs/typescript-visitor-keys/issues"
   },
-  "homepage": "https://github.com/xinminlabs/typescript-visitor-keys#readme"
+  "homepage": "https://github.com/xinminlabs/typescript-visitor-keys#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
