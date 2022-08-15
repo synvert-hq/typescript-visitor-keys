@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.1 (2022-08-15)
+
+* Add missing JsxSelfClosingElement
+
 ## 0.2.0 (2022-08-15)
 
 * Support jsx
