@@ -63,6 +63,13 @@ const KEYS: { [key: string]: string[] } = {
   VariableDeclarationList: ['declarations'],
   VariableDeclaration: ['name', 'initializer', 'type', 'exclamationToken'],
   WhileStatement: ['expression', 'statement'],
+  // JSX
+  JsxAttribute: ['name', 'initializer'],
+  JsxAttributes: ['properties'],
+  JsxClosingElement: ['tagName'],
+  JsxElement: ['openingElement', 'children', 'closingElement'],
+  JsxOpeningElement: ['tagName', 'typeArguments', 'attributes'],
+  JsxText: ['text'],
 }
 
 export default KEYS;
