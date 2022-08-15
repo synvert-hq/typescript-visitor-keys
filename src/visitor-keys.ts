@@ -69,6 +69,7 @@ const KEYS: { [key: string]: string[] } = {
   JsxClosingElement: ['tagName'],
   JsxElement: ['openingElement', 'children', 'closingElement'],
   JsxOpeningElement: ['tagName', 'typeArguments', 'attributes'],
+  JsxSelfClosingElement: ['tagName', 'typeArguments', 'attributes'],
   JsxText: ['text'],
 }
 
