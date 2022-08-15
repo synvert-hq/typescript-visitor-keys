@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.0 (2022-08-15)
+
+* Support jsx
+
 ## 0.1.1 (2022-08-11)
 
 * Add types to package.json
