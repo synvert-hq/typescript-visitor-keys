@@ -51,7 +51,7 @@ const KEYS: { [key: string]: string[] } = {
   PropertyDeclaration: ['name', 'initializer', 'type', 'questionToken', 'exclamationToken'],
   PropertySignature: ['name', 'type', 'questionToken'],
   ReturnStatement: ['expression'],
-  StringLiteral: ['text', 'singleQuote'],
+  StringLiteral: ['text'],
   StringKeyword: [],
   SuperKeyword: [],
   SwitchStatement: ['expression', 'caseBlock'],
