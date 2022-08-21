@@ -1,8 +1,14 @@
 # CHANGELOG
 
+## 0.2.2 (2022-08-21)
+
+* Add `ArrayType`
+* Add `asteriskToken` to `FunctionDeclaration`
+* Remove `singleQuote` from `StringLiteral`
+
 ## 0.2.1 (2022-08-15)
 
-* Add missing JsxSelfClosingElement
+* Add missing `JsxSelfClosingElement`
 
 ## 0.2.0 (2022-08-15)
 
