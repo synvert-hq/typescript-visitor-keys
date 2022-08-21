@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.3 (2022-08-21)
+
+* Add `ParenthesizedType` and `UnionType`
+
 ## 0.2.2 (2022-08-21)
 
 * Add `ArrayType`
