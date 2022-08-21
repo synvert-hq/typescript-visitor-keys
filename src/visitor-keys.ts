@@ -2,6 +2,7 @@
 const KEYS: { [key: string]: string[] } = {
   ArrayBindingPattern: ['elements'],
   ArrayLiteralExpression: ['elements'],
+  ArrayType: ['elementType'],
   ArrowFunction: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body'],
   AsyncKeyword: [],
   AwaitExpression: ['expression'],
