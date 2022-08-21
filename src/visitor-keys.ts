@@ -30,7 +30,7 @@ const KEYS: { [key: string]: string[] } = {
   ForInStatement: ['initializer', 'expression', 'statement'],
   ForOfStatement: ['initializer', 'expression', 'statement'],
   ForStatement: ['initializer', 'condition', 'incrementor', 'statement'],
-  FunctionDeclaration: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body'],
+  FunctionDeclaration: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body', 'asteriskToken'],
   HeritageClause: ['token', 'types'],
   IfStatement: ['expression', 'thenStatement', 'elseStatement'],
   ImportClause: ['isTypeOnly', 'name', 'namedBindings'],
