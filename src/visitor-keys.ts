@@ -62,6 +62,7 @@ const KEYS: { [key: string]: string[] } = {
   ThrowStatement: ['expression'],
   TrueKeyword: [],
   TryStatement: ['tryBlock', 'catchClause', 'finallyBlock'],
+  TypeOfExpression: ['expression'],
   TypeReference: ['typeName', 'typeArguments'],
   UnionType: ['types'],
   VariableDeclarationList: ['declarations'],
