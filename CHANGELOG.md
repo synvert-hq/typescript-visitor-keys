@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.2.5 (2022-05-24)
+
+* Add more operation tokens
+* Add `TypeOfExpression`
+
 ## 0.2.4 (2022-09-24)
 
 * Add `InstanceOfKeyword`
