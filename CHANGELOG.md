@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.4 (2022-09-24)
+
+* Add `InstanceOfKeyword`
+
 ## 0.2.3 (2022-08-21)
 
 * Add `ParenthesizedType` and `UnionType`
