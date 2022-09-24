@@ -1,6 +1,10 @@
 # CHANGELOG
 
-## 0.2.5 (2022-05-24)
+## 0.2.6 (2022-09-24)
+
+* add `RegularExpressionLiteral`
+
+## 0.2.5 (2022-09-24)
 
 * Add more operation tokens
 * Add `TypeOfExpression`
