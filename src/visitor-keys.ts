@@ -39,6 +39,7 @@ const KEYS: { [key: string]: string[] } = {
   ImportSpecifier: ['isTypeOnly', 'propertyName', 'name'],
   Identifier: ['escapedText'],
   InterfaceDeclaration: ['name', 'typeParameters', 'heritageClauses', 'members'],
+  InstanceOfKeyword: [],
   MethodDeclaration: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body', 'asteriskToken', 'questionToken', 'exclamationToken'],
   NewExpression: ['expression', 'typeArguments', 'arguments'],
   NamedExports: ['elements'],
