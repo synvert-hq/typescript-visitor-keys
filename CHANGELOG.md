@@ -1,8 +1,12 @@
 # CHANGELOG
 
+## 0.2.7 (2022-09-25)
+
+* Add more operator tokens
+
 ## 0.2.6 (2022-09-24)
 
-* add `RegularExpressionLiteral`
+* Add `RegularExpressionLiteral`
 
 ## 0.2.5 (2022-09-24)
 
