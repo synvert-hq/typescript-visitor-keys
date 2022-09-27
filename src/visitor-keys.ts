@@ -71,6 +71,7 @@ const KEYS: { [key: string]: string[] } = {
   SlashToken: [],
   StringLiteral: ['text'],
   StringKeyword: [],
+  SpreadElement: ['expression'],
   SuperKeyword: [],
   SwitchStatement: ['expression', 'caseBlock'],
   ThisKeyword: [],
