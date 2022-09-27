@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.8 (2022-09-27)
+
+* Add `SpreadElement`
+
 ## 0.2.7 (2022-09-25)
 
 * Add more operator tokens
