@@ -66,7 +66,7 @@ const KEYS: { [key: string]: string[] } = {
   PropertyAccessExpression: ['expression', 'name'],
   PropertyDeclaration: ['name', 'initializer', 'type', 'questionToken', 'exclamationToken'],
   PropertySignature: ['name', 'type', 'questionToken'],
-  RegularExpressionLiteral: [],
+  RegularExpressionLiteral: ['text'],
   ReturnStatement: ['expression'],
   SlashToken: [],
   StringLiteral: ['text'],
