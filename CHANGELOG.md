@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.9 (2022-10-02)
+
+* Add visitor key `text` to `RegularExpressionLiteral`
+
 ## 0.2.8 (2022-09-27)
 
 * Add `SpreadElement`
