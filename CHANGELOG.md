@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 0.2.10 (2022-10-10)
+
+* Add `AsExpression`
+* Add `BarBarToken`
+* Add `ColonToken`
+* Add `NonNullExpression`
+* Add `QuestionQuestionToken`
+* Add `QuestionToken`
+
 ## 0.2.9 (2022-10-02)
 
 * Add visitor key `text` to `RegularExpressionLiteral`
