@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.11 (2022-10-17)
+
+* Add `JsxFragment`
+
 ## 0.2.10 (2022-10-10)
 
 * Add `AsExpression`
