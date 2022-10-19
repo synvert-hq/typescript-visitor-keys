@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.13 (2022-10-19)
+
+* Add `PropertyAssignment`
+
 ## 0.2.12 (2022-10-19)
 
 * Add `ObjectLiteralExpression`
