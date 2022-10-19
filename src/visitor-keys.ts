@@ -69,6 +69,7 @@ const KEYS: { [key: string]: string[] } = {
   PostfixUnaryExpression: ['operator', 'operand'],
   PrefixUnaryExpression: ['operator', 'operand'],
   PropertyAccessExpression: ['expression', 'name'],
+  PropertyAssignment: ['name', 'initializer', 'questionToken', 'exclamationToken'],
   PropertyDeclaration: ['name', 'initializer', 'type', 'questionToken', 'exclamationToken'],
   PropertySignature: ['name', 'type', 'questionToken'],
   QuestionQuestionToken: [],
