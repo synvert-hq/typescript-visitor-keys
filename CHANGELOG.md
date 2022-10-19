@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.12 (2022-10-19)
+
+* Add `ObjectLiteralExpression`
+
 ## 0.2.11 (2022-10-17)
 
 * Add `JsxFragment`
