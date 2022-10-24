@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.15 (2022-10-24)
+
+* Add `DotDotDotToken`
+
 ## 0.2.14 (2022-10-24)
 
 * Add `JsxExpression`
