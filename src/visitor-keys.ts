@@ -26,6 +26,7 @@ const KEYS: { [key: string]: string[] } = {
   ConditionalExpression: ['condition', 'questionToken', 'whenTrue', 'colonToken', 'whenFalse'],
   Constructor: ['name', 'typeParameters', 'parameters', 'type', 'body'],
   DefaultClause: ['statements'],
+  DotDotDotToken: [],
   EqualsEqualsEqualsToken: [],
   EqualsEqualsToken: [],
   ExportAssignment: ['expression'],
