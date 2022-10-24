@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.14 (2022-10-24)
+
+* Add `JsxExpression`
+
 ## 0.2.13 (2022-10-19)
 
 * Add `PropertyAssignment`
