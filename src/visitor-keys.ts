@@ -97,6 +97,7 @@ const KEYS: { [key: string]: string[] } = {
   JsxAttributes: ['properties'],
   JsxClosingElement: ['tagName'],
   JsxElement: ['openingElement', 'children', 'closingElement'],
+  JsxExpression: ['dotDotDotToken', 'expression'],
   JsxFragment: ['openingElement', 'children', 'closingElement'],
   JsxOpeningElement: ['tagName', 'typeArguments', 'attributes'],
   JsxSelfClosingElement: ['tagName', 'typeArguments', 'attributes'],
