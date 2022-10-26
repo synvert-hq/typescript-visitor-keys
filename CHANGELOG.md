@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.2.16 (2022-10-26)
+
+* Add `TemplateExpression`
+* Add `TemplateHead`
+* Add `TemplateSpan`
+
 ## 0.2.15 (2022-10-24)
 
 * Add `DotDotDotToken`
