@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.2.18 (2022-11-05)
+
+* Add `ConditionalType`
+* Add `TypeAliasDeclaration`
+* Add `TypeParameter`
+
 ## 0.2.17 (2022-11-04)
 
 * Add `ExternalModuleReference`
