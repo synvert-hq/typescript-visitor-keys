@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.2.19 (2022-11-13)
+
+* Add `YieldExpression`
+* Add `FunctionExpression`
+
 ## 0.2.18 (2022-11-05)
 
 * Add `ConditionalType`
