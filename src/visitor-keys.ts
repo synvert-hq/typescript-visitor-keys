@@ -101,6 +101,7 @@ const KEYS: { [key: string]: string[] } = {
   VariableDeclarationList: ['declarations'],
   VariableDeclaration: ['name', 'initializer', 'type', 'exclamationToken'],
   WhileStatement: ['expression', 'statement'],
+  YieldExpression: ['expression'],
   // JSX
   JsxAttribute: ['name', 'initializer'],
   JsxAttributes: ['properties'],
