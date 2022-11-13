@@ -45,6 +45,7 @@ const KEYS: { [key: string]: string[] } = {
   ForOfStatement: ['initializer', 'expression', 'statement'],
   ForStatement: ['initializer', 'condition', 'incrementor', 'statement'],
   FunctionDeclaration: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body', 'asteriskToken'],
+  FunctionExpression: ['modifiers', 'name', 'typeParameters', 'parameters', 'type', 'body', 'asteriskToken'],
   GreaterThanEqualsToken: [],
   GreaterThanToken: [],
   HeritageClause: ['token', 'types'],
