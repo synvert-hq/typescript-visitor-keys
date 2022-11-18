@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/xinminlabs/typescript-visitor-keys#readme",
   "devDependencies": {
-    "typescript": "^4.7.4"
+    "typescript": "^4.9.3"
   }
 }
