@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.2.20 (2022-11-19)
+
+* Add `CommaToken`
+* Add `InToken`
+
 ## 0.2.19 (2022-11-13)
 
 * Add `YieldExpression`
