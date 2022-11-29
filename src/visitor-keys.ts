@@ -27,6 +27,7 @@ const KEYS: { [key: string]: string[] } = {
   ConditionalExpression: ['condition', 'questionToken', 'whenTrue', 'colonToken', 'whenFalse'],
   ConditionalType: ['checkType', 'extendsType', 'trueType', 'falseType'],
   Constructor: ['name', 'typeParameters', 'parameters', 'type', 'body'],
+  Decorator: ['expression'],
   DefaultClause: ['statements'],
   DotDotDotToken: [],
   EqualsEqualsEqualsToken: [],
