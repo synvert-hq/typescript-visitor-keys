@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.21 (2022-11-29)
+
+* Add `Decorator`
+
 ## 0.2.20 (2022-11-19)
 
 * Add `CommaToken`
