@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.22 (2023-01-01)
+
+* Add `LiteralType` and `TypeLiteral`
+
 ## 0.2.21 (2022-11-29)
 
 * Add `Decorator`
