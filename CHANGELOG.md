@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.23 (2023-02-05)
+
+* Add `ElementAccessExpression` node
+
 ## 0.2.22 (2023-01-01)
 
 * Add `LiteralType` and `TypeLiteral`
