@@ -30,6 +30,7 @@ const KEYS: { [key: string]: string[] } = {
   Decorator: ['expression'],
   DefaultClause: ['statements'],
   DotDotDotToken: [],
+  ElementAccessExpression: ['expression', 'argumentExpression'],
   EqualsEqualsEqualsToken: [],
   EqualsEqualsToken: [],
   ExportAssignment: ['expression'],
