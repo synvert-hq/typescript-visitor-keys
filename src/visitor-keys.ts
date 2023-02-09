@@ -28,6 +28,7 @@ const KEYS: { [key: string]: string[] } = {
   ConditionalType: ['checkType', 'extendsType', 'trueType', 'falseType'],
   Constructor: ['name', 'typeParameters', 'parameters', 'type', 'body'],
   Decorator: ['expression'],
+  DeleteExpression: ['expression'],
   DefaultClause: ['statements'],
   DotDotDotToken: [],
   ElementAccessExpression: ['expression', 'argumentExpression'],
