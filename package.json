@@ -1,6 +1,6 @@
 {
   "name": "typescript-visitor-keys",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "description": "typescript visitor keys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

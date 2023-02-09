@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.2.25 (2023-02-09)
+
+* Add `DeleteExpression` token
+* Add `ParenthesizedExpression` token
+
 ## 0.2.24 (2023-02-05)
 
 * Add template string tokens
