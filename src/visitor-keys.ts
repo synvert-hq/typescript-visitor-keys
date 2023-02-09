@@ -76,6 +76,7 @@ const KEYS: { [key: string]: string[] } = {
   NumberKeyword: [],
   ObjectLiteralExpression: ['properties'],
   Parameter: ['name', 'initializer', 'type', 'dotDotDotToken', 'questionToken'],
+  ParenthesizedExpression: ['expression'],
   ParenthesizedType: ['type'],
   PercentToken: [],
   PlusToken: [],
