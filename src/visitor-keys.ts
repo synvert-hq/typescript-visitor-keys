@@ -90,6 +90,7 @@ const KEYS: { [key: string]: string[] } = {
   QuestionToken: [],
   RegularExpressionLiteral: ['text'],
   ReturnStatement: ['expression'],
+  ShorthandPropertyAssignment: ['name'],
   SlashToken: [],
   StringLiteral: ['text'],
   StringKeyword: [],
