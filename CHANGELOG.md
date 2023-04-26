@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.26 (2023-04-26)
+
+* Add `ShorthandPropertyAssignment` token
+
 ## 0.2.25 (2023-02-09)
 
 * Add `DeleteExpression` token
