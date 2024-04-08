@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.2.27 (2024-04-07)
+
+* Moving from `@xinminlabs` to `@synvert-hq`
+* Rename package to `@synvert-hq/typescript-visitor-keys`
+
 ## 0.2.26 (2023-04-26)
 
 * Add `ShorthandPropertyAssignment` token

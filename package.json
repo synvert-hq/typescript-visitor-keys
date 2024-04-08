@@ -1,6 +1,6 @@
 {
   "name": "@synvert-hq/typescript-visitor-keys",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "description": "typescript visitor keys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
