@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/synvert-hq/typescript-visitor-keys#readme",
   "devDependencies": {
-    "typescript": "^4.9.3"
+    "typescript": "^5.9.3"
   }
 }
